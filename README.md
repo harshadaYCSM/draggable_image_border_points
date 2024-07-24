@@ -1,0 +1,1 @@
+# draggable_image_border_points
